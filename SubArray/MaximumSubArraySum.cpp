@@ -23,3 +23,10 @@ for(int i= 0; i<n;i++){
 cout<<maxSum;
 return 0 ;
 }
+
+
+/*
+4 
+-1 4 7 2
+13
+*/
